@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\r\n\ This\ is\ a\ basic\ Hello\ World\ intro\ script.\r\n\r\n\ @author\ braden\ gerlach\r\n\ @version\ 5.14.2024\r\n
+comment1.params=
+comment1.target=HelloWorld()
+comment1.text=\r\n\ Says\ Hello\ world\ and\ Hello\ John\r\n
+comment2.params=name
+comment2.target=void\ sayHelloToName(java.lang.String)
+comment2.text=\r\n\ Says\ Hello\ to\ the\ @param\ name\ var\r\n\ @param\ name\r\n
+numComments=3
