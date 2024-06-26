@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Aeiou
+comment1.params=og\ krz
+comment1.target=Aeiou(java.lang.Object,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\r\n\ This\ constructor\ takes\ parameters\ with\ the\ same\ name\ as\ the\ fields\ and\ initializes\ the\ fields\ using\ 'this'.\r\n\ @param\ og\ The\ og\ field\ stores\ an\ object\r\n\ @param\ krz\ The\ krz\ field\ stores\ an\ ArrayList\ of\ Nonsense\ objects\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getOg()
+comment2.text=\r\n\ Get\ the\ value\ of\ the\ og\ field\r\n\ @return\ The\ value\ of\ the\ og\ field\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getKrz()
+comment3.text=\r\n\ Get\ the\ value\ of\ the\ krz\ field\r\n\ @return\ The\ value\ of\ the\ krz\ field\r\n
+comment4.params=krz
+comment4.target=void\ setKrz(java.util.ArrayList)
+comment4.text=\r\n\ Set\ the\ value\ of\ the\ krz\ field\r\n\ @param\ krz\ The\ new\ value\ for\ the\ krz\ field\r\n
+comment5.params=og
+comment5.target=void\ setOg(java.lang.Object)
+comment5.text=\r\n\ Set\ the\ value\ of\ the\ og\ field\r\n\ @param\ og\ The\ new\ value\ for\ the\ og\ field\r\n
+comment6.params=nonSense
+comment6.target=void\ addKrz(Nonsense)
+comment6.text=\r\n\ Add\ a\ Nonsense\ object\ to\ the\ krz\ field\r\n\ @param\ nonSense\ The\ Nonsense\ object\ to\ add\r\n
+numComments=7

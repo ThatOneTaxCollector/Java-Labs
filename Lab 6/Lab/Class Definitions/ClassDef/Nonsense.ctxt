@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Nonsense
+comment0.text=\r\n\ Class\:\ Nonsense\r\n\ This\ class\ represents\ a\ Nonsense\ object\ with\ three\ fields\:\ krz,\ og,\ and\ zi4928.\r\n
+comment1.params=krz\ og\ zi4928
+comment1.target=Nonsense(java.lang.Object,\ byte,\ char)
+comment1.text=\r\n\ Constructor\r\n\ This\ constructor\ takes\ parameters\ with\ the\ same\ name\ as\ the\ fields\ and\ initializes\ the\ fields\ using\ 'this'.\r\n\ @param\ krz\ The\ krz\ field\ stores\ an\ object\r\n\ @param\ og\ The\ og\ field\ stores\ a\ byte\ value\r\n\ @param\ zi4928\ The\ zi4928\ field\ stores\ a\ char\ value\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getKrz()
+comment2.text=\r\n\ Get\ the\ value\ of\ the\ krz\ field\r\n\ @return\ The\ value\ of\ the\ krz\ field\r\n
+comment3.params=
+comment3.target=byte\ getOg()
+comment3.text=\r\n\ Get\ the\ value\ of\ the\ og\ field\r\n\ @return\ The\ value\ of\ the\ og\ field\r\n
+comment4.params=
+comment4.target=char\ getZi4928()
+comment4.text=\r\n\ Get\ the\ value\ of\ the\ zi4928\ field\r\n\ @return\ The\ value\ of\ the\ zi4928\ field\r\n
+comment5.params=krz
+comment5.target=void\ setKrz(java.lang.Object)
+comment5.text=\r\n\ Set\ the\ value\ of\ the\ krz\ field\r\n\ @param\ krz\ The\ new\ value\ for\ the\ krz\ field\r\n
+comment6.params=og
+comment6.target=void\ setOg(byte)
+comment6.text=\r\n\ Set\ the\ value\ of\ the\ og\ field\r\n\ @param\ og\ The\ new\ value\ for\ the\ og\ field\r\n
+comment7.params=zi4928
+comment7.target=void\ setZi4928(char)
+comment7.text=\r\n\ Set\ the\ value\ of\ the\ zi4928\ field\r\n\ @param\ zi4928\ The\ new\ value\ for\ the\ zi4928\ field\r\n
+numComments=8
