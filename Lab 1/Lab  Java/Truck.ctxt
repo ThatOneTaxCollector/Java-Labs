@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Truck
+comment0.text=\r\n\ Like\ song\ but\ with\ more\ truck\r\n\r\n\ @author\ Braden\ Gerlach\r\n\ @version\ 2024.17.4\r\n
+comment1.params=truckManufacturer\ truckAxles
+comment1.target=Truck(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getManufacturer()
+comment3.params=manufacturer
+comment3.target=void\ setManufacturer(java.lang.String)
+comment4.params=
+comment4.target=int\ getNumAxles()
+comment5.params=numAxles
+comment5.target=void\ setNumAxles(int)
+comment6.params=
+comment6.target=int\ getMileage()
+comment7.params=mileage
+comment7.target=void\ setMileage(int)
+numComments=8
